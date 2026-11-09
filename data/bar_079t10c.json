@@ -1,1 +1,77 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"bar_079t10c","dbfId":68235,"name":"야생덩굴","type":"SPELL","cardClass":"NEUTRAL","collectible":false,"cost":0,"text":"<b>전투의 함성: </b>내 다른 하수인들에게 +4/+4를 부여합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS22-182_S.tif:8afa1d94718c47969d22dc694f13f43c","set":"THE_BARRENS","nativeTags":[{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":5},{"id":218,"name":"전투의 함성","value":1},{"id":684,"name":"비용 숨김","value":1}],"races":[],"race":"","classes":[],"art":"art/bar_079t10c.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS22-182_S.tif:8afa1d94718c47969d22dc694f13f43c","goldenMaterial":"BAR_079t10_PremiumCard.mat:0a29c378698d6c742bccd4defc0aa5c8","goldenAnimation":"BAR_079t10_PremiumCard.asset:3515948c66eaf744f9749dc10a33be5b"}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Wildvine",
+  "card": {
+    "id": "bar_079t10c",
+    "dbfId": 68235,
+    "name": "야생덩굴",
+    "text": "<b>전투의 함성: </b>내 다른 하수인들에게 +4/+4를 부여합니다.",
+    "type": "SPELL",
+    "cardClass": "NEUTRAL",
+    "classes": [],
+    "nativeSetId": 1525,
+    "set": "THE_BARRENS",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 0,
+    "attack": 0,
+    "health": 0,
+    "armor": 0,
+    "durability": 0,
+    "collectible": false,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS22-182_S.tif:8afa1d94718c47969d22dc694f13f43c",
+    "flavor": "",
+    "nativeTags": [
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 684,
+        "name": "비용 숨김",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "<b>전투의 함성: </b>내 다른 하수인들에게 +4/+4를 부여합니다.",
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "verified",
+    "patches": [],
+    "initialSpecStatus": "unverified",
+    "patchSources": {}
+  },
+  "root": false,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1525,
+    "slug": "forged-in-the-barrens",
+    "name": "불모의 땅",
+    "type": "expansion",
+    "englishName": "Forged In The Barrens"
+  },
+  "setOrder": 20,
+  "formats": [
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

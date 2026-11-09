@@ -1,0 +1,19 @@
+{
+  "schema": 1,
+  "timezone": "Asia/Seoul",
+  "default": {
+    "date": "2021-03-31",
+    "status": "verified"
+  },
+  "prefixes": {
+    "WC_": {
+      "date": "2021-06-04",
+      "status": "verified"
+    }
+  },
+  "cards": {},
+  "sources": {
+    "main": "https://hearthstone.blizzard.com/ko-kr/expansions-adventures/forged-in-the-barrens",
+    "mini": "https://hearthstone.blizzard.com/ko-kr/news/23686272"
+  }
+}

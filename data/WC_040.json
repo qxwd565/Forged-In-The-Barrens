@@ -1,1 +1,115 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"WC_040","dbfId":63230,"name":"타락심장 심문관","type":"MINION","cardClass":"DEMONHUNTER","rarity":"RARE","collectible":true,"cost":8,"text":"<b>도발</b>, 상대편이 시전하는 주문의 비용이 (2) 증가합니다.","attack":8,"health":8,"durability":0,"armor":0,"flavor":"슬프기도 해라. 세계수가 불타 없어지기라도 했나?","spellSchool":"","portrait":"HS22-195_M.tif:43d4c16868694babb439cb252bb80126","set":"THE_BARRENS","nativeTags":[{"id":45,"name":"생명력","value":8},{"id":47,"name":"공격력","value":8},{"id":48,"name":"마나 비용","value":8},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":14},{"id":200,"name":"종족","value":15},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1},{"id":362,"name":"지속 효과","value":1},{"id":1824,"name":"미니 세트","value":1}],"races":["DEMON"],"race":"악마","classes":[],"art":"art/WC_040.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS22-195_M.tif:43d4c16868694babb439cb252bb80126","goldenMaterial":"WC_040_PremiumCard.mat:7a2eb3ddeb930064c9f56c9a9439c0cc","goldenAnimation":"WC_040_PremiumCard.asset:947524d3bb528c042a4daed200fdc711"}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Taintheart Tormenter",
+  "card": {
+    "id": "WC_040",
+    "dbfId": 63230,
+    "name": "타락심장 심문관",
+    "text": "<b>도발</b>, 상대편이 시전하는 주문의 비용이 (2) 증가합니다.",
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "classes": [],
+    "nativeSetId": 1525,
+    "set": "THE_BARRENS",
+    "rarity": "RARE",
+    "race": "악마",
+    "races": [
+      "DEMON"
+    ],
+    "spellSchool": "",
+    "cost": 8,
+    "attack": 8,
+    "health": 8,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS22-195_M.tif:43d4c16868694babb439cb252bb80126",
+    "flavor": "슬프기도 해라. 세계수가 불타 없어지기라도 했나?",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 8
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 8
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 8
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 14
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 15
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 362,
+        "name": "지속 효과",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "<b>도발</b>, 상대편이 시전하는 주문의 비용이 (2) 증가합니다.",
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-06-04",
+    "releaseStatus": "verified",
+    "patches": [],
+    "initialSpecStatus": "unverified",
+    "patchSources": {}
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1525,
+    "slug": "forged-in-the-barrens",
+    "name": "불모의 땅",
+    "type": "expansion",
+    "englishName": "Forged In The Barrens"
+  },
+  "setOrder": 20,
+  "formats": [
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

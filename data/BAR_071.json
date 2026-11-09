@@ -1,1 +1,98 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BAR_071","dbfId":62550,"name":"타우라조 용사","type":"MINION","cardClass":"NEUTRAL","rarity":"RARE","collectible":true,"cost":6,"text":"<b>광폭:</b> 무작위 적 하수인을 처치합니다.","attack":4,"health":8,"durability":0,"armor":0,"flavor":"“그 어떤 타우렌 용사라도 가시에 박히면 눈물을 흘리기 마련입니다.”","spellSchool":"","portrait":"HS22-164_M.tif:4be87492eb4344039c3a81517c49e356","set":"THE_BARRENS","nativeTags":[{"id":45,"name":"생명력","value":8},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":6},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1},{"id":1637,"name":"광폭","value":1}],"races":[],"race":"","classes":[],"art":"art/BAR_071.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS22-164_M.tif:4be87492eb4344039c3a81517c49e356","goldenMaterial":"BAR_071_PremiumCard.mat:3a8ba6e785de4fa4fb2806b24c7b1c7c","goldenAnimation":"BAR_071_PremiumCard.asset:45462a6b0bfa3d94cab9d6bed705d92f"}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Taurajo Brave",
+  "card": {
+    "id": "BAR_071",
+    "dbfId": 62550,
+    "name": "타우라조 용사",
+    "text": "<b>광폭:</b> 무작위 적 하수인을 처치합니다.",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "classes": [],
+    "nativeSetId": 1525,
+    "set": "THE_BARRENS",
+    "rarity": "RARE",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 6,
+    "attack": 4,
+    "health": 8,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS22-164_M.tif:4be87492eb4344039c3a81517c49e356",
+    "flavor": "“그 어떤 타우렌 용사라도 가시에 박히면 눈물을 흘리기 마련입니다.”",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 8
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1637,
+        "name": "광폭",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "<b>광폭:</b> 무작위 적 하수인을 처치합니다.",
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "verified",
+    "patches": [],
+    "initialSpecStatus": "unverified",
+    "patchSources": {}
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1525,
+    "slug": "forged-in-the-barrens",
+    "name": "불모의 땅",
+    "type": "expansion",
+    "englishName": "Forged In The Barrens"
+  },
+  "setOrder": 20,
+  "formats": [
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

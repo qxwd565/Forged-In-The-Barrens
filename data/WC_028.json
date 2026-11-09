@@ -1,1 +1,107 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"WC_028","dbfId":63396,"name":"만남의 돌","type":"MINION","cardClass":"NEUTRAL","rarity":"COMMON","collectible":true,"cost":1,"text":"내 턴이 끝날 때, 무작위 추가 효과를 얻은 2/2 모험가를 내 손으로 가져옵니다.","attack":0,"health":2,"durability":0,"armor":0,"flavor":"\"왜 여기 근처에는 아무도 없는 걸까?\"","spellSchool":"","portrait":"HS22-236_M.tif:2b681f3f6a374377a05d79d64951cd39","set":"THE_BARRENS","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":2},{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1824,"name":"미니 세트","value":1}],"races":[],"race":"","classes":[],"art":"art/WC_028.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS22-236_M.tif:2b681f3f6a374377a05d79d64951cd39","goldenMaterial":"WC_028_PremiumCard.mat:52b728f2e76517e4f8fa084110b31d65","goldenAnimation":"WC_028_PremiumCard.asset:72ce5ef2e00f118469ac788db59a8a89"}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Meeting Stone",
+  "card": {
+    "id": "WC_028",
+    "dbfId": 63396,
+    "name": "만남의 돌",
+    "text": "내 턴이 끝날 때, 무작위 추가 효과를 얻은 2/2 모험가를 내 손으로 가져옵니다.",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "classes": [],
+    "nativeSetId": 1525,
+    "set": "THE_BARRENS",
+    "rarity": "COMMON",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 1,
+    "attack": 0,
+    "health": 2,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS22-236_M.tif:2b681f3f6a374377a05d79d64951cd39",
+    "flavor": "\"왜 여기 근처에는 아무도 없는 걸까?\"",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "내 턴이 끝날 때, 무작위 추가 효과를 얻은 2/2 모험가를 내 손으로 가져옵니다.",
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-06-04",
+    "releaseStatus": "verified",
+    "patches": [],
+    "initialSpecStatus": "unverified",
+    "patchSources": {}
+  },
+  "root": true,
+  "relatedIds": [
+    63103,
+    63104,
+    63105,
+    63106,
+    63107,
+    63108,
+    63109,
+    63110
+  ],
+  "expansion": {
+    "id": 1525,
+    "slug": "forged-in-the-barrens",
+    "name": "불모의 땅",
+    "type": "expansion",
+    "englishName": "Forged In The Barrens"
+  },
+  "setOrder": 20,
+  "formats": [
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

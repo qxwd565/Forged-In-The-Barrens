@@ -1,1 +1,107 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"WC_020","dbfId":63098,"name":"끊임없는 화염","type":"SPELL","cardClass":"SHAMAN","rarity":"RARE","collectible":true,"cost":2,"text":"무작위 적 하수인에게 피해를 $3 줍니다. 그 하수인이 죽으면, 이 주문을 다시 시전합니다. <b>과부하:</b> (1)","attack":0,"health":0,"durability":0,"armor":0,"flavor":"화염은 끊임없습니다.* *<i>이번 턴에만 끊임없습니다.</i>","spellSchool":"FIRE","portrait":"HS22-219_S.tif:140431e19df745b782827752f2feb3ce","set":"THE_BARRENS","nativeTags":[{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":8},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":215,"name":"과부하","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1635,"name":"주문 속성","value":2},{"id":1824,"name":"미니 세트","value":1}],"races":[],"race":"","classes":[],"art":"art/WC_020.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS22-219_S.tif:140431e19df745b782827752f2feb3ce","goldenMaterial":"WC_020_PremiumCard.mat:cc6b7df6aca95364d8433110f31c9512","goldenAnimation":"WC_020_PremiumCard.asset:b0f4fd8337b85ab48895119def7cc123"}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Perpetual Flame",
+  "card": {
+    "id": "WC_020",
+    "dbfId": 63098,
+    "name": "끊임없는 화염",
+    "text": "무작위 적 하수인에게 피해를 $3 줍니다. 그 하수인이 죽으면, 이 주문을 다시 시전합니다. <b>과부하:</b> (1)",
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "classes": [],
+    "nativeSetId": 1525,
+    "set": "THE_BARRENS",
+    "rarity": "RARE",
+    "race": "",
+    "races": [],
+    "spellSchool": "FIRE",
+    "cost": 1,
+    "attack": 0,
+    "health": 0,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS22-219_S.tif:140431e19df745b782827752f2feb3ce",
+    "flavor": "화염은 끊임없습니다.* *<i>이번 턴에만 끊임없습니다.</i>",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 8
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 215,
+        "name": "과부하",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 2
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "무작위 적 하수인에게 피해를 $3 줍니다. 그 하수인이 죽으면, 이 주문을 다시 시전합니다. <b>과부하:</b> (1)",
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-06-04",
+    "releaseStatus": "verified",
+    "patches": [
+      {
+        "date": "2021-09-22",
+        "changes": {
+          "cost": 2
+        }
+      }
+    ],
+    "initialSpecStatus": "partially_verified",
+    "patchSources": {
+      "2021-09-22": "https://hearthstone.blizzard.com/en-gb/news/23724327/21-3"
+    }
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1525,
+    "slug": "forged-in-the-barrens",
+    "name": "불모의 땅",
+    "type": "expansion",
+    "englishName": "Forged In The Barrens"
+  },
+  "setOrder": 20,
+  "formats": [
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

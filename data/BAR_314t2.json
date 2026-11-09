@@ -1,1 +1,83 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BAR_314t2","dbfId":62884,"name":"규탄 (3 레벨)","type":"SPELL","cardClass":"PRIEST","rarity":"EPIC","collectible":false,"cost":2,"text":"모든 적 하수인에게\n피해를 $3 줍니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"HOLY","portrait":"HS22-053_S.tif:c9533dd606a1444dac1de36c77e17a6a","set":"THE_BARRENS","nativeTags":[{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":6},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":4},{"id":1635,"name":"주문 속성","value":5}],"races":[],"race":"","classes":[],"art":"art/BAR_314t2.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS22-053_S.tif:c9533dd606a1444dac1de36c77e17a6a","goldenMaterial":"BAR_314t2_PremiumCard.mat:d97ce4009a528c741b94e47205ffd519","goldenAnimation":"BAR_314t2_PremiumCard.asset:06f5c63ba8fb7954ebdaa2379e33bbb4"}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Condemn (Rank 3)",
+  "card": {
+    "id": "BAR_314t2",
+    "dbfId": 62884,
+    "name": "규탄 (3 레벨)",
+    "text": "모든 적 하수인에게\n피해를 $3 줍니다.",
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "classes": [],
+    "nativeSetId": 1525,
+    "set": "THE_BARRENS",
+    "rarity": "EPIC",
+    "race": "",
+    "races": [],
+    "spellSchool": "HOLY",
+    "cost": 2,
+    "attack": 0,
+    "health": 0,
+    "armor": 0,
+    "durability": 0,
+    "collectible": false,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS22-053_S.tif:c9533dd606a1444dac1de36c77e17a6a",
+    "flavor": "",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 5
+      }
+    ],
+    "nativeRawText": "[x]모든 적 하수인에게\n피해를 $3 줍니다.",
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "verified",
+    "patches": [],
+    "initialSpecStatus": "unverified",
+    "patchSources": {}
+  },
+  "root": false,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1525,
+    "slug": "forged-in-the-barrens",
+    "name": "불모의 땅",
+    "type": "expansion",
+    "englishName": "Forged In The Barrens"
+  },
+  "setOrder": 20,
+  "formats": [
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

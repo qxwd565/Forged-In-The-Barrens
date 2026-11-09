@@ -1,0 +1,26 @@
+{
+  "schema": 1,
+  "set": "Forged In The Barrens",
+  "repository": "qxwd565/Forged-In-The-Barrens",
+  "sourceRecords": 246,
+  "sourceVariants": 108,
+  "totalSourceJSON": 354,
+  "collectible": 170,
+  "uncollectible": 76,
+  "pendingReleaseIds": [],
+  "patchVerifiedIds": [
+    "BAR_074",
+    "BAR_076",
+    "BAR_875",
+    "BAR_542",
+    "WC_020"
+  ],
+  "patchVerifiedCardCount": 5,
+  "patchEvents": 6,
+  "excludedDifferentNativeSet": [],
+  "historicalAccuracy": "Historical initial snapshots are provisional, except fields directly reconstructed from cited patches; no exhaustive patch verification claimed",
+  "existingArtworkAndGoldenPreserved": true,
+  "committedPatchEvents": 22,
+  "skippedUnconfirmedFields": 15,
+  "combinationVariantsUploaded": 108
+}

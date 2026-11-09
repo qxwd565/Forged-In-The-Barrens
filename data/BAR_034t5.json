@@ -1,1 +1,94 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BAR_034t5","dbfId":65330,"name":"길들인 천둥도마뱀","type":"MINION","cardClass":"HUNTER","collectible":false,"cost":6,"text":"<b>속공</b>","attack":6,"health":6,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS22-246_M.tif:f41631fa0c584d588a6ceff09679049f","set":"THE_BARRENS","nativeTags":[{"id":45,"name":"생명력","value":6},{"id":47,"name":"공격력","value":6},{"id":48,"name":"마나 비용","value":6},{"id":199,"name":"직업","value":3},{"id":200,"name":"종족","value":20},{"id":202,"name":"카드 유형","value":4},{"id":791,"name":"속공","value":1}],"races":["BEAST"],"race":"야수","classes":[],"art":"art/BAR_034t5.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS22-246_M.tif:f41631fa0c584d588a6ceff09679049f","goldenMaterial":"BAR_034t5_PremiumCard.mat:aa6763b4fa3f1ba4ebaa578f62d1dc51","goldenAnimation":"BAR_034t5_PremiumCard.asset:c55beff9057a7cb4083a916572932f2a"}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Tamed Thunder Lizard",
+  "card": {
+    "id": "BAR_034t5",
+    "dbfId": 65330,
+    "name": "길들인 천둥도마뱀",
+    "text": "<b>속공</b>",
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "classes": [],
+    "nativeSetId": 1525,
+    "set": "THE_BARRENS",
+    "race": "야수",
+    "races": [
+      "BEAST"
+    ],
+    "spellSchool": "",
+    "cost": 6,
+    "attack": 6,
+    "health": 6,
+    "armor": 0,
+    "durability": 0,
+    "collectible": false,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS22-246_M.tif:f41631fa0c584d588a6ceff09679049f",
+    "flavor": "",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 6
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 6
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 3
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "<b>속공</b>",
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "verified",
+    "patches": [],
+    "initialSpecStatus": "unverified",
+    "patchSources": {}
+  },
+  "root": false,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1525,
+    "slug": "forged-in-the-barrens",
+    "name": "불모의 땅",
+    "type": "expansion",
+    "englishName": "Forged In The Barrens"
+  },
+  "setOrder": 20,
+  "formats": [
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Greater Golem",
+  "card": {
+    "id": "BAR_079_m2",
+    "dbfId": 63667,
+    "name": "상급 골렘",
+    "text": "<b>속공</b>, <b>전투의 함성: </b>내 다른 하수인들에게 +2/+2를 부여합니다.",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "classes": [],
+    "nativeSetId": 1525,
+    "set": "THE_BARRENS",
+    "rarity": "",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 5,
+    "attack": 5,
+    "health": 5,
+    "armor": 0,
+    "durability": 0,
+    "collectible": false,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS22-174_M.tif:4f0c3905a5944f8aa79665a35a594a7f",
+    "flavor": "",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 5
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 1304,
+        "name": "게임 태그 1304",
+        "value": 2982
+      }
+    ],
+    "nativeRawText": "{0}, {1}",
+    "nativeTextBuilder": 3
+  },
+  "root": false,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1525,
+    "slug": "forged-in-the-barrens",
+    "name": "불모의 땅",
+    "type": "expansion",
+    "englishName": "Forged In The Barrens"
+  },
+  "setOrder": 20,
+  "formats": [
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  },
+  "variantId": "golem:BAR_079_m2:BAR_079t10b+BAR_079t4",
+  "preset": {
+    "description": "<b>속공</b>, <b>전투의 함성: </b>내 다른 하수인들에게 +2/+2를 부여합니다."
+  },
+  "combination": {
+    "kind": "golem",
+    "producer": "BAR_079",
+    "effects": [
+      "BAR_079t4",
+      "BAR_079t10b"
+    ],
+    "effectNames": [
+      "토끼엉겅퀴풀",
+      "야생덩굴"
+    ]
+  }
+}

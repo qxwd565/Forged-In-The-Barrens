@@ -1,1 +1,99 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"WC_003t","dbfId":63500,"name":"울부짖는 악마","type":"MINION","cardClass":"DEMONHUNTER","collectible":false,"cost":2,"text":"<b>도발</b>","attack":2,"health":2,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS22-197_M.tif:7556903823e34dcbbc383e08b377d34d","set":"THE_BARRENS","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":2},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":14},{"id":200,"name":"종족","value":15},{"id":202,"name":"카드 유형","value":4},{"id":1824,"name":"미니 세트","value":1}],"races":["DEMON"],"race":"악마","classes":[],"art":"art/WC_003t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS22-197_M.tif:7556903823e34dcbbc383e08b377d34d","goldenMaterial":"WC_003t_PremiumCard.mat:d84a03ccd2e0fef42a15661ec51cb9e1","goldenAnimation":"WC_003t_PremiumCard.asset:4bb7a7185eab9b043a01989cb990a1ef"}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Wailing Demon",
+  "card": {
+    "id": "WC_003t",
+    "dbfId": 63500,
+    "name": "울부짖는 악마",
+    "text": "<b>도발</b>",
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "classes": [],
+    "nativeSetId": 1525,
+    "set": "THE_BARRENS",
+    "race": "악마",
+    "races": [
+      "DEMON"
+    ],
+    "spellSchool": "",
+    "cost": 2,
+    "attack": 2,
+    "health": 2,
+    "armor": 0,
+    "durability": 0,
+    "collectible": false,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS22-197_M.tif:7556903823e34dcbbc383e08b377d34d",
+    "flavor": "",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 14
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 15
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "<b>도발</b>",
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-06-04",
+    "releaseStatus": "verified",
+    "patches": [],
+    "initialSpecStatus": "unverified",
+    "patchSources": {}
+  },
+  "root": false,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1525,
+    "slug": "forged-in-the-barrens",
+    "name": "불모의 땅",
+    "type": "expansion",
+    "englishName": "Forged In The Barrens"
+  },
+  "setOrder": 20,
+  "formats": [
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

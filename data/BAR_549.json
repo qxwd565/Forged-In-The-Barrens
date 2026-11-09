@@ -1,1 +1,93 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BAR_549","dbfId":63114,"name":"가시껍질의 징표","type":"SPELL","cardClass":"DRUID","rarity":"RARE","collectible":true,"cost":2,"text":"하수인에게 +2/+2를\n부여합니다. 그 하수인에게\n<b>도발</b> 능력이 있으면,\n그 카드를 복사하여\n내 손으로 가져옵니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"\"나도 거북이 모임에 끼워 줘!\"","spellSchool":"NATURE","portrait":"HS22-132_S.tif:5164795f484c4d2ebd07bd1e2765ba9e","set":"THE_BARRENS","nativeTags":[{"id":48,"name":"마나 비용","value":2},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":2},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1},{"id":1635,"name":"주문 속성","value":4}],"races":[],"race":"","classes":[],"art":"art/BAR_549.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS22-132_S.tif:5164795f484c4d2ebd07bd1e2765ba9e","goldenMaterial":"BAR_549_PremiumCard.mat:55cb1b0cc34611f47ad31efab181076f","goldenAnimation":"BAR_549_PremiumCard.asset:7218e6dd6b87c1240bca2101295d1842"}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Mark of the Spikeshell",
+  "card": {
+    "id": "BAR_549",
+    "dbfId": 63114,
+    "name": "가시껍질의 징표",
+    "text": "하수인에게 +2/+2를\n부여합니다. 그 하수인에게\n<b>도발</b> 능력이 있으면,\n그 카드를 복사하여\n내 손으로 가져옵니다.",
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "classes": [],
+    "nativeSetId": 1525,
+    "set": "THE_BARRENS",
+    "rarity": "RARE",
+    "race": "",
+    "races": [],
+    "spellSchool": "NATURE",
+    "cost": 2,
+    "attack": 0,
+    "health": 0,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS22-132_S.tif:5164795f484c4d2ebd07bd1e2765ba9e",
+    "flavor": "\"나도 거북이 모임에 끼워 줘!\"",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 4
+      }
+    ],
+    "nativeRawText": "하수인에게 +2/+2를\n부여합니다. 그 하수인에게\n<b>도발</b> 능력이 있으면,\n그 카드를 복사하여\n내 손으로 가져옵니다.",
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "verified",
+    "patches": [],
+    "initialSpecStatus": "unverified",
+    "patchSources": {}
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1525,
+    "slug": "forged-in-the-barrens",
+    "name": "불모의 땅",
+    "type": "expansion",
+    "englishName": "Forged In The Barrens"
+  },
+  "setOrder": 20,
+  "formats": [
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

@@ -1,1 +1,77 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BAR_079t5","dbfId":63645,"name":"뱀뿌리","type":"SPELL","cardClass":"NEUTRAL","collectible":false,"cost":0,"text":"<b>도발</b>","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS22-177_S.tif:50b32101ea2d4a18b04fccee801b3365","set":"THE_BARRENS","nativeTags":[{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":5},{"id":684,"name":"비용 숨김","value":1}],"races":[],"race":"","classes":[],"art":"art/BAR_079t5.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS22-177_S.tif:50b32101ea2d4a18b04fccee801b3365","goldenMaterial":"BAR_079t5_PremiumCard.mat:e68f64d465f85114ea862f8c554943e9","goldenAnimation":"BAR_079t5_PremiumCard.asset:d603f1f69f53937469ba5659bfdc49e9"}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Earthroot",
+  "card": {
+    "id": "BAR_079t5",
+    "dbfId": 63645,
+    "name": "뱀뿌리",
+    "text": "<b>도발</b>",
+    "type": "SPELL",
+    "cardClass": "NEUTRAL",
+    "classes": [],
+    "nativeSetId": 1525,
+    "set": "THE_BARRENS",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 0,
+    "attack": 0,
+    "health": 0,
+    "armor": 0,
+    "durability": 0,
+    "collectible": false,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS22-177_S.tif:50b32101ea2d4a18b04fccee801b3365",
+    "flavor": "",
+    "nativeTags": [
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 684,
+        "name": "비용 숨김",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "<b>도발</b>",
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "verified",
+    "patches": [],
+    "initialSpecStatus": "unverified",
+    "patchSources": {}
+  },
+  "root": false,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1525,
+    "slug": "forged-in-the-barrens",
+    "name": "불모의 땅",
+    "type": "expansion",
+    "englishName": "Forged In The Barrens"
+  },
+  "setOrder": 20,
+  "formats": [
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

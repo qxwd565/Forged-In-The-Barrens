@@ -1,1 +1,115 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"WC_030","dbfId":63398,"name":"걸신들린 무타누스","type":"MINION","cardClass":"NEUTRAL","rarity":"LEGENDARY","collectible":true,"cost":7,"text":"<b>전투의 함성:</b>\n상대편의 손에 있는 하수인을 잡아먹고 그 하수인의 능력치를 얻습니다.","attack":4,"health":4,"durability":0,"armor":0,"flavor":"이불 속에 있는 한, 나랄렉스는 무타누스로부터 안전합니다.","spellSchool":"","portrait":"HS22-239_M.tif:8b6e41aa80ed4528bde87f00b0a5ac92","set":"THE_BARRENS","nativeTags":[{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":7},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":14},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1824,"name":"미니 세트","value":1}],"races":["MURLOC"],"race":"멀록","classes":[],"art":"art/WC_030.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS22-239_M.tif:8b6e41aa80ed4528bde87f00b0a5ac92","goldenMaterial":"WC_030_PremiumCard.mat:62a24db037405224984423989baaa75b","goldenAnimation":"WC_030_PremiumCard.asset:3059c4957b43d964bae43d1bcefe41cf"}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Mutanus the Devourer",
+  "card": {
+    "id": "WC_030",
+    "dbfId": 63398,
+    "name": "걸신들린 무타누스",
+    "text": "<b>전투의 함성:</b>\n상대편의 손에 있는 하수인을 잡아먹고 그 하수인의 능력치를 얻습니다.",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "classes": [],
+    "nativeSetId": 1525,
+    "set": "THE_BARRENS",
+    "rarity": "LEGENDARY",
+    "race": "멀록",
+    "races": [
+      "MURLOC"
+    ],
+    "spellSchool": "",
+    "cost": 7,
+    "attack": 4,
+    "health": 4,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS22-239_M.tif:8b6e41aa80ed4528bde87f00b0a5ac92",
+    "flavor": "이불 속에 있는 한, 나랄렉스는 무타누스로부터 안전합니다.",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 7
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 14
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "<b>전투의 함성:</b>\n상대편의 손에 있는 하수인을 잡아먹고 그 하수인의 능력치를 얻습니다.",
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-06-04",
+    "releaseStatus": "verified",
+    "patches": [],
+    "initialSpecStatus": "unverified",
+    "patchSources": {}
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1525,
+    "slug": "forged-in-the-barrens",
+    "name": "불모의 땅",
+    "type": "expansion",
+    "englishName": "Forged In The Barrens"
+  },
+  "setOrder": 20,
+  "formats": [
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

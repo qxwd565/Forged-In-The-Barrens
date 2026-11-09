@@ -1,1 +1,103 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"WC_025","dbfId":63374,"name":"숫돌 손도끼","type":"WEAPON","cardClass":"WARRIOR","rarity":"RARE","collectible":true,"cost":1,"text":"내 영웅이 공격한 후에, 내 손에 있는 하수인에게 공격력을 +1 부여합니다.","attack":1,"health":0,"durability":4,"armor":0,"flavor":"안 좋은 손도끼라도 좋은 창을 더 날카롭게 다듬을 수 있습니다.","spellSchool":"","portrait":"HS22-224_W.tif:a886b0cc69154a9f82548c3118e23a63","set":"THE_BARRENS","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":10},{"id":202,"name":"카드 유형","value":7},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1},{"id":1824,"name":"미니 세트","value":1}],"races":[],"race":"","classes":[],"art":"art/WC_025.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS22-224_W.tif:a886b0cc69154a9f82548c3118e23a63","goldenMaterial":"WC_025_PremiumCard.mat:b778f8255f9b6b24db54fef088523ca4","goldenAnimation":"WC_025_PremiumCard.asset:321e98d95b45cf84abdb9c05b1d03863"}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Whetstone Hatchet",
+  "card": {
+    "id": "WC_025",
+    "dbfId": 63374,
+    "name": "숫돌 손도끼",
+    "text": "내 영웅이 공격한 후에, 내 손에 있는 하수인에게 공격력을 +1 부여합니다.",
+    "type": "WEAPON",
+    "cardClass": "WARRIOR",
+    "classes": [],
+    "nativeSetId": 1525,
+    "set": "THE_BARRENS",
+    "rarity": "RARE",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 1,
+    "attack": 1,
+    "health": 0,
+    "armor": 0,
+    "durability": 4,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS22-224_W.tif:a886b0cc69154a9f82548c3118e23a63",
+    "flavor": "안 좋은 손도끼라도 좋은 창을 더 날카롭게 다듬을 수 있습니다.",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 10
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 7
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "내 영웅이 공격한 후에, 내 손에 있는 하수인에게 공격력을 +1 부여합니다.",
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-06-04",
+    "releaseStatus": "verified",
+    "patches": [],
+    "initialSpecStatus": "unverified",
+    "patchSources": {}
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1525,
+    "slug": "forged-in-the-barrens",
+    "name": "불모의 땅",
+    "type": "expansion",
+    "englishName": "Forged In The Barrens"
+  },
+  "setOrder": 20,
+  "formats": [
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

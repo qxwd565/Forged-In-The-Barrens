@@ -1,1 +1,97 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BAR_919t","dbfId":65578,"name":"불타는 칼날단 차원문","type":"MINION","cardClass":"WARLOCK","collectible":false,"cost":11,"text":"내 턴이 끝날 때,\n내 전장을 3/2 임프로 가득 채웁니다.","attack":0,"health":1,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS22-247_M.tif:54a7d032e9b24f21bccd744facb71fb0","set":"THE_BARRENS","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":1},{"id":48,"name":"마나 비용","value":11},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":9},{"id":202,"name":"카드 유형","value":4},{"id":402,"name":"능력치 숨김","value":1},{"id":448,"name":"대상 지정 불가","value":1}],"races":[],"race":"","classes":[],"art":"art/BAR_919t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS22-247_M.tif:54a7d032e9b24f21bccd744facb71fb0","goldenMaterial":"BAR_919t_PremiumCard.mat:ab1fd940118cd7649bd115b8bf23e7b1","goldenAnimation":"BAR_919t_PremiumCard.asset:5f522deaf871be34ba218991e1409523"}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Burning Blade Portal",
+  "card": {
+    "id": "BAR_919t",
+    "dbfId": 65578,
+    "name": "불타는 칼날단 차원문",
+    "text": "내 턴이 끝날 때,\n내 전장을 3/2 임프로 가득 채웁니다.",
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "classes": [],
+    "nativeSetId": 1525,
+    "set": "THE_BARRENS",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 11,
+    "attack": 0,
+    "health": 1,
+    "armor": 0,
+    "durability": 0,
+    "collectible": false,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS22-247_M.tif:54a7d032e9b24f21bccd744facb71fb0",
+    "flavor": "",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 11
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 402,
+        "name": "능력치 숨김",
+        "value": 1
+      },
+      {
+        "id": 448,
+        "name": "대상 지정 불가",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "내 턴이 끝날 때,\n내 전장을 3/2 임프로 가득 채웁니다.",
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "verified",
+    "patches": [],
+    "initialSpecStatus": "unverified",
+    "patchSources": {}
+  },
+  "root": false,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1525,
+    "slug": "forged-in-the-barrens",
+    "name": "불모의 땅",
+    "type": "expansion",
+    "englishName": "Forged In The Barrens"
+  },
+  "setOrder": 20,
+  "formats": [
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

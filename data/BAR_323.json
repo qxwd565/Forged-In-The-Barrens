@@ -1,1 +1,104 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BAR_323","dbfId":62894,"name":"슬쩍!","type":"SPELL","cardClass":"ROGUE","rarity":"EPIC","collectible":true,"cost":1,"text":"영웅 능력을 <b>발견</b>하고 그\n능력의 비용이 (0)이 됩니다.\n2회 사용한 후에, 원래\n영웅 능력으로 돌아옵니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"주문 이름을 외치며 시전하면 효과가 더 좋아집니다.","spellSchool":"","portrait":"HS22-065_S.tif:2091afada3b047a2858a51146f8f440c","set":"THE_BARRENS","nativeTags":[{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":7},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":4},{"id":321,"name":"수집 가능","value":1},{"id":415,"name":"발견","value":1},{"id":1342,"name":"발견 시각 효과","value":1}],"races":[],"race":"","classes":[],"art":"art/BAR_323.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS22-065_S.tif:2091afada3b047a2858a51146f8f440c","goldenMaterial":"BAR_323_PremiumCard.mat:eb35d87898853e1419d4443389b3f648","goldenAnimation":"BAR_323_PremiumCard.asset:f0b568eb15a576f4fb52a3b6bb11e203"}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Yoink!",
+  "card": {
+    "id": "BAR_323",
+    "dbfId": 62894,
+    "name": "슬쩍!",
+    "text": "영웅 능력을 <b>발견</b>하고 그\n능력의 비용이 (0)이 됩니다.\n2회 사용한 후에, 원래\n영웅 능력으로 돌아옵니다.",
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "classes": [],
+    "nativeSetId": 1525,
+    "set": "THE_BARRENS",
+    "rarity": "EPIC",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 1,
+    "attack": 0,
+    "health": 0,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS22-065_S.tif:2091afada3b047a2858a51146f8f440c",
+    "flavor": "주문 이름을 외치며 시전하면 효과가 더 좋아집니다.",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 415,
+        "name": "발견",
+        "value": 1
+      },
+      {
+        "id": 1342,
+        "name": "발견 시각 효과",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "[x]영웅 능력을 <b>발견</b>하고 그\n능력의 비용이 (0)이 됩니다.\n2회 사용한 후에, 원래\n영웅 능력으로 돌아옵니다.",
+    "nativeTextBuilder": 7,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "verified",
+    "patches": [],
+    "initialSpecStatus": "unverified",
+    "patchSources": {}
+  },
+  "root": true,
+  "relatedIds": [
+    78162,
+    60224,
+    1123,
+    229,
+    807,
+    472,
+    479,
+    687,
+    300,
+    725
+  ],
+  "expansion": {
+    "id": 1525,
+    "slug": "forged-in-the-barrens",
+    "name": "불모의 땅",
+    "type": "expansion",
+    "englishName": "Forged In The Barrens"
+  },
+  "setOrder": 20,
+  "formats": [
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

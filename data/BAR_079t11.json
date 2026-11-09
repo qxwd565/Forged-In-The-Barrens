@@ -1,1 +1,77 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BAR_079t11","dbfId":63651,"name":"그롬의 피","type":"SPELL","cardClass":"NEUTRAL","collectible":false,"cost":0,"text":"<b>전투의 함성:</b> 이 하수인을 복사하여 소환합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS22-183_S.tif:48368e1d77434d74b5985da8e4302f3c","set":"THE_BARRENS","nativeTags":[{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":5},{"id":218,"name":"전투의 함성","value":1},{"id":684,"name":"비용 숨김","value":1}],"races":[],"race":"","classes":[],"art":"art/BAR_079t11.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS22-183_S.tif:48368e1d77434d74b5985da8e4302f3c","goldenMaterial":"BAR_079t11_PremiumCard.mat:d1444e12133dd1b4e9a49bccab625488","goldenAnimation":"BAR_079t11_PremiumCard.asset:4df4d52e0c0414b4aa2efd6449cc0b8b"}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Gromsblood",
+  "card": {
+    "id": "BAR_079t11",
+    "dbfId": 63651,
+    "name": "그롬의 피",
+    "text": "<b>전투의 함성:</b> 이 하수인을 복사하여 소환합니다.",
+    "type": "SPELL",
+    "cardClass": "NEUTRAL",
+    "classes": [],
+    "nativeSetId": 1525,
+    "set": "THE_BARRENS",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 0,
+    "attack": 0,
+    "health": 0,
+    "armor": 0,
+    "durability": 0,
+    "collectible": false,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS22-183_S.tif:48368e1d77434d74b5985da8e4302f3c",
+    "flavor": "",
+    "nativeTags": [
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 684,
+        "name": "비용 숨김",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "<b>전투의 함성:</b> 이 하수인을 복사하여 소환합니다.",
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "verified",
+    "patches": [],
+    "initialSpecStatus": "unverified",
+    "patchSources": {}
+  },
+  "root": false,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1525,
+    "slug": "forged-in-the-barrens",
+    "name": "불모의 땅",
+    "type": "expansion",
+    "englishName": "Forged In The Barrens"
+  },
+  "setOrder": 20,
+  "formats": [
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

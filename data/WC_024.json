@@ -1,1 +1,103 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"WC_024","dbfId":63373,"name":"무장의 달인","type":"MINION","cardClass":"WARRIOR","rarity":"COMMON","collectible":true,"cost":2,"text":"<b>전투의 함성:</b> 내 영웅이 무기를 장착하고 있으면, +1/+1을 얻습니다.","attack":2,"health":3,"durability":0,"armor":0,"flavor":"격투의 달인과 앙숙입니다.","spellSchool":"","portrait":"HS22-223_M.tif:2b58406302a54550b1c50be9568acbae","set":"THE_BARRENS","nativeTags":[{"id":45,"name":"생명력","value":3},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":10},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1824,"name":"미니 세트","value":1}],"races":[],"race":"","classes":[],"art":"art/WC_024.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS22-223_M.tif:2b58406302a54550b1c50be9568acbae","goldenMaterial":"WC_024_PremiumCard.mat:b84ce6df2f3cad546a6773330997872e","goldenAnimation":"WC_024_PremiumCard.asset:679ca9d23870c5549b68b54115e1a76c"}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Man-at-Arms",
+  "card": {
+    "id": "WC_024",
+    "dbfId": 63373,
+    "name": "무장의 달인",
+    "text": "<b>전투의 함성:</b> 내 영웅이 무기를 장착하고 있으면, +1/+1을 얻습니다.",
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "classes": [],
+    "nativeSetId": 1525,
+    "set": "THE_BARRENS",
+    "rarity": "COMMON",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 2,
+    "attack": 2,
+    "health": 3,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS22-223_M.tif:2b58406302a54550b1c50be9568acbae",
+    "flavor": "격투의 달인과 앙숙입니다.",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 10
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "<b>전투의 함성:</b> 내 영웅이 무기를 장착하고 있으면, +1/+1을 얻습니다.",
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-06-04",
+    "releaseStatus": "verified",
+    "patches": [],
+    "initialSpecStatus": "unverified",
+    "patchSources": {}
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1525,
+    "slug": "forged-in-the-barrens",
+    "name": "불모의 땅",
+    "type": "expansion",
+    "englishName": "Forged In The Barrens"
+  },
+  "setOrder": 20,
+  "formats": [
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

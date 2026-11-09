@@ -1,1 +1,139 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BAR_540","dbfId":63042,"name":"썩어가는 역병아귀","type":"MINION","cardClass":"DRUID","rarity":"LEGENDARY","collectible":true,"cost":4,"text":"<b>도발</b> 능력이 있는 아군 하수인이\n죽은 후에, 그 하수인을\n<b>도발</b> 능력이 없는 상태로\n복사하여 소환합니다.","attack":3,"health":4,"durability":0,"armor":0,"flavor":"하루에 세 번 양치 안하면 이렇게 된다!","spellSchool":"","portrait":"HS22-013_M.tif:c7706e435a1f4a52b8492f0537e94fee","set":"THE_BARRENS","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":4},{"id":114,"name":"전설 속성","value":1},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":2},{"id":200,"name":"종족","value":43},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":321,"name":"수집 가능","value":1},{"id":2534,"name":"게임 태그 2534","value":1}],"races":["UNDEAD","QUILBOAR"],"race":"언데드, 가시멧돼지","classes":[],"art":"art/BAR_540.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS22-013_M.tif:c7706e435a1f4a52b8492f0537e94fee","goldenMaterial":"BAR_540_PremiumCard.mat:0c242c1cd059acc40b0ae8080a5881e1","goldenAnimation":"BAR_540_PremiumCard.asset:d9bedb7bea9a9d043b96fdd9a57065c8"}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Plaguemaw the Rotting",
+  "card": {
+    "id": "BAR_540",
+    "dbfId": 63042,
+    "name": "썩어가는 역병아귀",
+    "text": "<b>도발</b> 능력이 있는 아군 하수인이\n죽은 후에, 그 하수인을\n<b>도발</b> 능력이 없는 상태로\n복사하여 소환합니다.",
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "classes": [],
+    "nativeSetId": 1525,
+    "set": "THE_BARRENS",
+    "rarity": "LEGENDARY",
+    "race": "언데드, 가시멧돼지",
+    "races": [],
+    "spellSchool": "",
+    "cost": 4,
+    "attack": 3,
+    "health": 4,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS22-013_M.tif:c7706e435a1f4a52b8492f0537e94fee",
+    "flavor": "하루에 세 번 양치 안하면 이렇게 된다!",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 43
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 2534,
+        "name": "게임 태그 2534",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "[x]<b>도발</b> 능력이 있는 아군 하수인이\n죽은 후에, 그 하수인을\n<b>도발</b> 능력이 없는 상태로\n복사하여 소환합니다.",
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "verified",
+    "patches": [
+      {
+        "date": "2021-05-05",
+        "changes": {
+          "races": [
+            "QUILBOAR"
+          ]
+        }
+      },
+      {
+        "date": "2022-11-30",
+        "changes": {
+          "races": [
+            "UNDEAD",
+            "QUILBOAR"
+          ]
+        }
+      }
+    ],
+    "initialSpecStatus": "unverified",
+    "patchSources": {
+      "2021-05-05": "taxonomy introduction",
+      "2022-11-30": "taxonomy introduction"
+    }
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1525,
+    "slug": "forged-in-the-barrens",
+    "name": "불모의 땅",
+    "type": "expansion",
+    "englishName": "Forged In The Barrens"
+  },
+  "setOrder": 20,
+  "formats": [
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

@@ -1,1 +1,119 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"WC_035","dbfId":63432,"name":"대드루이드 나랄렉스","type":"MINION","cardClass":"NEUTRAL","rarity":"LEGENDARY","collectible":true,"cost":3,"text":"2턴 동안 <b>휴면</b> 상태가 됩니다.\n이 하수인이 <b>휴면</b> 상태라면\n내 턴이 끝날 때 <b>꿈 카드</b>를\n내 손으로 가져옵니다.","attack":3,"health":3,"durability":0,"armor":0,"flavor":"\"휴면이라고? 숙면 시간이겠지.\"","spellSchool":"","portrait":"HS22-238_M.tif:e05f64e72b314668ac8c9850e2a22055","set":"THE_BARRENS","nativeTags":[{"id":45,"name":"생명력","value":3},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":3},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":321,"name":"수집 가능","value":1},{"id":1518,"name":"휴면","value":1},{"id":1652,"name":"게임 태그 1652","value":1},{"id":1824,"name":"미니 세트","value":1}],"races":[],"race":"","classes":[],"art":"art/WC_035.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS22-238_M.tif:e05f64e72b314668ac8c9850e2a22055","goldenMaterial":"WC_035_PremiumCard.mat:4ff105ddb88b93f42ae24411d44dcbb3","goldenAnimation":"WC_035_PremiumCard.asset:e5367d1bb9a534943ab0360774ec91e0"}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Archdruid Naralex",
+  "card": {
+    "id": "WC_035",
+    "dbfId": 63432,
+    "name": "대드루이드 나랄렉스",
+    "text": "2턴 동안 <b>휴면</b> 상태가 됩니다.\n이 하수인이 <b>휴면</b> 상태라면\n내 턴이 끝날 때 <b>꿈 카드</b>를\n내 손으로 가져옵니다.",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "classes": [],
+    "nativeSetId": 1525,
+    "set": "THE_BARRENS",
+    "rarity": "LEGENDARY",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 3,
+    "attack": 3,
+    "health": 3,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS22-238_M.tif:e05f64e72b314668ac8c9850e2a22055",
+    "flavor": "\"휴면이라고? 숙면 시간이겠지.\"",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1518,
+        "name": "휴면",
+        "value": 1
+      },
+      {
+        "id": 1652,
+        "name": "게임 태그 1652",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "[x]2턴 동안 <b>휴면</b> 상태가 됩니다.\n이 하수인이 <b>휴면</b> 상태라면\n내 턴이 끝날 때 <b>꿈 카드</b>를\n내 손으로 가져옵니다.",
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-06-04",
+    "releaseStatus": "verified",
+    "patches": [],
+    "initialSpecStatus": "unverified",
+    "patchSources": {}
+  },
+  "root": true,
+  "relatedIds": [
+    217,
+    808,
+    340,
+    301,
+    489
+  ],
+  "expansion": {
+    "id": 1525,
+    "slug": "forged-in-the-barrens",
+    "name": "불모의 땅",
+    "type": "expansion",
+    "englishName": "Forged In The Barrens"
+  },
+  "setOrder": 20,
+  "formats": [
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

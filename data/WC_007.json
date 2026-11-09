@@ -1,1 +1,88 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"WC_007","dbfId":63334,"name":"불뱀꽃","type":"SPELL","cardClass":"HUNTER","rarity":"COMMON","collectible":true,"cost":0,"text":"아군 야수에게 <b>독성</b>을 부여합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"\"어머, 너무 귀여워!\" 그게 마지막으로 남긴 말이었습니다.","spellSchool":"","portrait":"HS22-202_S.tif:d275f0609274441db539458e1ba91dd9","set":"THE_BARRENS","nativeTags":[{"id":199,"name":"직업","value":3},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":363,"name":"독성","value":1},{"id":1824,"name":"미니 세트","value":1}],"races":[],"race":"","classes":[],"art":"art/WC_007.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS22-202_S.tif:d275f0609274441db539458e1ba91dd9","goldenMaterial":"WC_007_PremiumCard.mat:7dafeea55fab8384cbf1769edf38e25b","goldenAnimation":"WC_007_PremiumCard.asset:493e2f1cc19e20848a84276a2f6c2b9b"}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Serpentbloom",
+  "card": {
+    "id": "WC_007",
+    "dbfId": 63334,
+    "name": "불뱀꽃",
+    "text": "아군 야수에게 <b>독성</b>을 부여합니다.",
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "classes": [],
+    "nativeSetId": 1525,
+    "set": "THE_BARRENS",
+    "rarity": "COMMON",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 0,
+    "attack": 0,
+    "health": 0,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS22-202_S.tif:d275f0609274441db539458e1ba91dd9",
+    "flavor": "\"어머, 너무 귀여워!\" 그게 마지막으로 남긴 말이었습니다.",
+    "nativeTags": [
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 363,
+        "name": "독성",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "아군 야수에게 <b>독성</b>을 부여합니다.",
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-06-04",
+    "releaseStatus": "verified",
+    "patches": [],
+    "initialSpecStatus": "unverified",
+    "patchSources": {}
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1525,
+    "slug": "forged-in-the-barrens",
+    "name": "불모의 땅",
+    "type": "expansion",
+    "englishName": "Forged In The Barrens"
+  },
+  "setOrder": 20,
+  "formats": [
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

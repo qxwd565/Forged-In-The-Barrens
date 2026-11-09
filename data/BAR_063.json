@@ -1,1 +1,110 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BAR_063","dbfId":62484,"name":"푸른 오아시스 정찰병","type":"MINION","cardClass":"NEUTRAL","rarity":"COMMON","collectible":true,"cost":2,"text":"내가 멀록을 소환한\n후에, 그 하수인에게\n공격력 +1과 <b>속공</b>을\n부여합니다.","attack":1,"health":3,"durability":0,"armor":0,"flavor":"\"멀록 세 마리\"와 \"아옳옳옳 작은 별\"밖에 연주할 줄 모릅니다.","spellSchool":"","portrait":"HS22-104_M.tif:96d0e31d727c42728d9797b061fc11b6","set":"THE_BARRENS","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":3},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":14},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":791,"name":"속공","value":1}],"races":["MURLOC"],"race":"멀록","classes":[],"art":"art/BAR_063.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS22-104_M.tif:96d0e31d727c42728d9797b061fc11b6","goldenMaterial":"BAR_063_PremiumCard.mat:f8e356180e1e5c548a47a515286317de","goldenAnimation":"BAR_063_PremiumCard.asset:f7cb7be34fdd77c429906c5c88e83287"}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Lushwater Scout",
+  "card": {
+    "id": "BAR_063",
+    "dbfId": 62484,
+    "name": "푸른 오아시스 정찰병",
+    "text": "내가 멀록을 소환한\n후에, 그 하수인에게\n공격력 +1과 <b>속공</b>을\n부여합니다.",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "classes": [],
+    "nativeSetId": 1525,
+    "set": "THE_BARRENS",
+    "rarity": "COMMON",
+    "race": "멀록",
+    "races": [
+      "MURLOC"
+    ],
+    "spellSchool": "",
+    "cost": 2,
+    "attack": 1,
+    "health": 3,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS22-104_M.tif:96d0e31d727c42728d9797b061fc11b6",
+    "flavor": "\"멀록 세 마리\"와 \"아옳옳옳 작은 별\"밖에 연주할 줄 모릅니다.",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 14
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "[x]내가 멀록을 소환한\n후에, 그 하수인에게\n공격력 +1과 <b>속공</b>을\n부여합니다.",
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "verified",
+    "patches": [],
+    "initialSpecStatus": "unverified",
+    "patchSources": {}
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1525,
+    "slug": "forged-in-the-barrens",
+    "name": "불모의 땅",
+    "type": "expansion",
+    "englishName": "Forged In The Barrens"
+  },
+  "setOrder": 20,
+  "formats": [
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}
