@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Swinetusk Shank",
-  "card": {
+  "2021-03-31": {
     "id": "BAR_322",
     "dbfId": 62893,
     "name": "멧돼지엄니 단도",
-    "text": "내가 독을 낸 후에,\n내구도를 +1 얻습니다.",
+    "text": "내가 독을 낸 후에,<br></br>내구도를 +1 얻습니다.",
     "type": "WEAPON",
     "cardClass": "ROGUE",
     "classes": [],
@@ -70,29 +67,10 @@
     ],
     "nativeRawText": "[x]내가 독을 낸 후에,\n내구도를 +1 얻습니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2021-03-31",
-    "releaseStatus": "verified",
-    "patches": [],
-    "initialSpecStatus": "unverified",
-    "patchSources": {}
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1525,
-    "slug": "forged-in-the-barrens",
-    "name": "불모의 땅",
-    "type": "expansion",
-    "englishName": "Forged In The Barrens"
-  },
-  "setOrder": 20,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "patchSources": {},
+    "englishName": "Swinetusk Shank",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/BAR_322.png"
   }
 }

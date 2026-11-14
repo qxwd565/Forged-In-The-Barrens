@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Soldier's Caravan",
-  "card": {
+  "2021-03-31": {
     "id": "BAR_871",
     "dbfId": 63690,
     "name": "병사의 짐마차",
-    "text": "내 턴이 시작될 때,\n1/1 은빛 성기사단\n신병을 둘 소환합니다.",
+    "text": "내 턴이 시작될 때,<br></br>1/1 은빛 성기사단<br></br>신병을 둘 소환합니다.",
     "type": "MINION",
     "cardClass": "PALADIN",
     "classes": [],
@@ -75,31 +72,12 @@
     ],
     "nativeRawText": "[x]내 턴이 시작될 때,\n{0} 은빛 성기사단\n신병을 둘 소환합니다.",
     "nativeTextBuilder": 46,
-    "releasedAt": "2021-03-31",
-    "releaseStatus": "verified",
-    "patches": [],
-    "initialSpecStatus": "unverified",
-    "patchSources": {}
-  },
-  "root": true,
-  "relatedIds": [
-    1652
-  ],
-  "expansion": {
-    "id": 1525,
-    "slug": "forged-in-the-barrens",
-    "name": "불모의 땅",
-    "type": "expansion",
-    "englishName": "Forged In The Barrens"
-  },
-  "setOrder": 20,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "patchSources": {},
+    "englishName": "Soldier's Caravan",
+    "root": true,
+    "relatedIds": [
+      1652
+    ],
+    "art": "art/BAR_871.png"
   }
 }

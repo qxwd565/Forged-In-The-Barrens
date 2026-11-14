@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Deviate Dreadfang",
-  "card": {
+  "2021-06-04": {
     "id": "WC_036",
     "dbfId": 63502,
     "name": "돌연변이 송곳니천둥매",
-    "text": "내가 자연 주문을 시전한\n후에, <b>속공</b> 능력이 있는\n4/2 독사를 소환합니다.",
+    "text": "내가 자연 주문을 시전한<br></br>후에, <b>속공</b> 능력이 있는<br></br>4/2 독사를 소환합니다.",
     "type": "MINION",
     "cardClass": "DRUID",
     "classes": [],
@@ -92,31 +89,12 @@
     ],
     "nativeRawText": "[x]내가 자연 주문을 시전한\n후에, <b>속공</b> 능력이 있는\n4/2 독사를 소환합니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2021-06-04",
-    "releaseStatus": "verified",
-    "patches": [],
-    "initialSpecStatus": "unverified",
-    "patchSources": {}
-  },
-  "root": true,
-  "relatedIds": [
-    63503
-  ],
-  "expansion": {
-    "id": 1525,
-    "slug": "forged-in-the-barrens",
-    "name": "불모의 땅",
-    "type": "expansion",
-    "englishName": "Forged In The Barrens"
-  },
-  "setOrder": 20,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "patchSources": {},
+    "englishName": "Deviate Dreadfang",
+    "root": true,
+    "relatedIds": [
+      63503
+    ],
+    "art": "art/WC_036.png"
   }
 }

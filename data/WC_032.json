@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Seedcloud Buckler",
-  "card": {
+  "2021-06-04": {
     "id": "WC_032",
     "dbfId": 63099,
     "name": "괴물씨앗 버클러",
-    "text": "<b>죽음의 메아리:</b>\n내 하수인들에게 <b>천상의 보호막</b>을 부여합니다.",
+    "text": "<b>죽음의 메아리:</b><br></br>내 하수인들에게 <b>천상의 보호막</b>을 부여합니다.",
     "type": "WEAPON",
     "cardClass": "PALADIN",
     "classes": [],
@@ -80,29 +77,10 @@
     ],
     "nativeRawText": "<b>죽음의 메아리:</b>\n내 하수인들에게 <b>천상의_보호막</b>을 부여합니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2021-06-04",
-    "releaseStatus": "verified",
-    "patches": [],
-    "initialSpecStatus": "unverified",
-    "patchSources": {}
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1525,
-    "slug": "forged-in-the-barrens",
-    "name": "불모의 땅",
-    "type": "expansion",
-    "englishName": "Forged In The Barrens"
-  },
-  "setOrder": 20,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "patchSources": {},
+    "englishName": "Seedcloud Buckler",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/WC_032.png"
   }
 }

@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Silverleaf Poison",
-  "card": {
+  "2021-03-31": {
     "id": "BAR_318",
     "dbfId": 62889,
     "name": "은엽수잎 독",
-    "text": "내 무기에\n\"내 영웅이 공격한 후에, 카드를 뽑음\" 능력을 부여합니다.",
+    "text": "내 무기에<br></br>\"내 영웅이 공격한 후에, 카드를 뽑음\" 능력을 부여합니다.",
     "type": "SPELL",
     "cardClass": "ROGUE",
     "classes": [],
@@ -65,29 +62,10 @@
     ],
     "nativeRawText": "내 무기에\n\"내 영웅이 공격한 후에, 카드를 뽑음\" 능력을 부여합니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2021-03-31",
-    "releaseStatus": "verified",
-    "patches": [],
-    "initialSpecStatus": "unverified",
-    "patchSources": {}
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1525,
-    "slug": "forged-in-the-barrens",
-    "name": "불모의 땅",
-    "type": "expansion",
-    "englishName": "Forged In The Barrens"
-  },
-  "setOrder": 20,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "patchSources": {},
+    "englishName": "Silverleaf Poison",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/BAR_318.png"
   }
 }

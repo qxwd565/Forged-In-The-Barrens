@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Rimetongue",
-  "card": {
+  "2021-03-31": {
     "id": "BAR_888",
     "dbfId": 63112,
     "name": "냉기혓바닥",
-    "text": "내가 냉기 주문을 시전한\n후에, 적을 <b>빙결</b> 상태로\n만드는 1/1 정령을\n소환합니다.",
+    "text": "내가 냉기 주문을 시전한<br></br>후에, 적을 <b>빙결</b> 상태로<br></br>만드는 1/1 정령을<br></br>소환합니다.",
     "type": "MINION",
     "cardClass": "MAGE",
     "classes": [],
@@ -80,31 +77,12 @@
     ],
     "nativeRawText": "[x]내가 냉기 주문을 시전한\n후에, 적을 <b>빙결</b> 상태로\n만드는 1/1 정령을\n소환합니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2021-03-31",
-    "releaseStatus": "verified",
-    "patches": [],
-    "initialSpecStatus": "unverified",
-    "patchSources": {}
-  },
-  "root": true,
-  "relatedIds": [
-    63631
-  ],
-  "expansion": {
-    "id": 1525,
-    "slug": "forged-in-the-barrens",
-    "name": "불모의 땅",
-    "type": "expansion",
-    "englishName": "Forged In The Barrens"
-  },
-  "setOrder": 20,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "patchSources": {},
+    "englishName": "Rimetongue",
+    "root": true,
+    "relatedIds": [
+      63631
+    ],
+    "art": "art/BAR_888.png"
   }
 }

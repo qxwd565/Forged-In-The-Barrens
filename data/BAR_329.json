@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Death Speaker Blackthorn",
-  "card": {
+  "2021-03-31": {
     "id": "BAR_329",
     "dbfId": 63167,
     "name": "죽음예언자 블랙쏜",
-    "text": "<b>전투의 함성:</b> 내 덱에서\n비용이 (5) 이하인\n<b>죽음의 메아리</b> 하수인을\n셋 소환합니다.",
+    "text": "<b>전투의 함성:</b> 내 덱에서<br></br>비용이 (5) 이하인<br></br><b>죽음의 메아리</b> 하수인을<br></br>셋 소환합니다.",
     "type": "MINION",
     "cardClass": "DEMONHUNTER",
     "classes": [],
@@ -85,40 +82,17 @@
     ],
     "nativeRawText": "[x]<b>전투의 함성:</b> 내 덱에서\n비용이 (5) 이하인\n<b>죽음의 메아리</b> 하수인을\n셋 소환합니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2021-03-31",
-    "releaseStatus": "verified",
-    "patches": [
-      {
-        "date": "2021-05-05",
-        "changes": {
-          "races": [
-            "QUILBOAR"
-          ]
-        }
-      }
-    ],
-    "initialSpecStatus": "unverified",
     "patchSources": {
       "2021-05-05": "taxonomy introduction"
-    }
+    },
+    "englishName": "Death Speaker Blackthorn",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/BAR_329.png"
   },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1525,
-    "slug": "forged-in-the-barrens",
-    "name": "불모의 땅",
-    "type": "expansion",
-    "englishName": "Forged In The Barrens"
-  },
-  "setOrder": 20,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+  "2021-05-05": {
+    "races": [
+      "QUILBOAR"
+    ]
   }
 }

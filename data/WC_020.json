@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Perpetual Flame",
-  "card": {
+  "2021-06-04": {
     "id": "WC_020",
     "dbfId": 63098,
     "name": "끊임없는 화염",
@@ -70,38 +67,15 @@
     ],
     "nativeRawText": "무작위 적 하수인에게 피해를 $3 줍니다. 그 하수인이 죽으면, 이 주문을 다시 시전합니다. <b>과부하:</b> (1)",
     "nativeTextBuilder": 0,
-    "releasedAt": "2021-06-04",
-    "releaseStatus": "verified",
-    "patches": [
-      {
-        "date": "2021-09-22",
-        "changes": {
-          "cost": 2
-        }
-      }
-    ],
-    "initialSpecStatus": "partially_verified",
     "patchSources": {
       "2021-09-22": "https://hearthstone.blizzard.com/en-gb/news/23724327/21-3"
-    }
+    },
+    "englishName": "Perpetual Flame",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/WC_020.png"
   },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1525,
-    "slug": "forged-in-the-barrens",
-    "name": "불모의 땅",
-    "type": "expansion",
-    "englishName": "Forged In The Barrens"
-  },
-  "setOrder": 20,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+  "2021-09-22": {
+    "cost": 2
   }
 }

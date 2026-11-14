@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Varden Dawngrasp",
-  "card": {
+  "2021-03-31": {
     "id": "BAR_748",
     "dbfId": 63261,
     "name": "바르덴 던그래스프",
-    "text": "<b>전투의 함성:</b> 모든 적 하수인을 <b>빙결</b> 상태로 만듭니다.\n이미 <b>빙결</b> 상태라면, 피해를 4 줍니다.",
+    "text": "<b>전투의 함성:</b> 모든 적 하수인을 <b>빙결</b> 상태로 만듭니다.<br></br>이미 <b>빙결</b> 상태라면, 피해를 4 줍니다.",
     "type": "MINION",
     "cardClass": "MAGE",
     "classes": [],
@@ -80,29 +77,10 @@
     ],
     "nativeRawText": "<b>전투의 함성:</b> 모든 적 하수인을 <b>빙결</b> 상태로 만듭니다.\n이미 <b>빙결</b> 상태라면, 피해를 4 줍니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2021-03-31",
-    "releaseStatus": "verified",
-    "patches": [],
-    "initialSpecStatus": "unverified",
-    "patchSources": {}
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1525,
-    "slug": "forged-in-the-barrens",
-    "name": "불모의 땅",
-    "type": "expansion",
-    "englishName": "Forged In The Barrens"
-  },
-  "setOrder": 20,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "patchSources": {},
+    "englishName": "Varden Dawngrasp",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/BAR_748.png"
   }
 }

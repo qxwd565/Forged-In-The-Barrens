@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Venomous Scorpid",
-  "card": {
+  "2021-03-31": {
     "id": "BAR_065",
     "dbfId": 62486,
     "name": "맹독 전갈",
-    "text": "<b>독성</b>, <b>전투의 함성:</b>\n주문을 <b>발견</b>합니다.",
+    "text": "<b>독성</b>, <b>전투의 함성:</b><br></br>주문을 <b>발견</b>합니다.",
     "type": "MINION",
     "cardClass": "NEUTRAL",
     "classes": [],
@@ -92,29 +89,10 @@
     ],
     "nativeRawText": "<b>독성</b>, <b>전투의 함성:</b>\n주문을 <b>발견</b>합니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2021-03-31",
-    "releaseStatus": "verified",
-    "patches": [],
-    "initialSpecStatus": "unverified",
-    "patchSources": {}
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1525,
-    "slug": "forged-in-the-barrens",
-    "name": "불모의 땅",
-    "type": "expansion",
-    "englishName": "Forged In The Barrens"
-  },
-  "setOrder": 20,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "patchSources": {},
+    "englishName": "Venomous Scorpid",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/BAR_065.png"
   }
 }

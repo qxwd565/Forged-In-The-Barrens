@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Kresh, Lord of Turtling",
-  "card": {
+  "2021-06-04": {
     "id": "WC_026",
     "dbfId": 63375,
     "name": "거북 군주 크레쉬",
-    "text": "<b>광폭:</b> 방어도를 +8 얻습니다.\n<b>죽음의 메아리:</b> 2/5\n거북 가시를 장착합니다.",
+    "text": "<b>광폭:</b> 방어도를 +8 얻습니다.<br></br><b>죽음의 메아리:</b> 2/5<br></br>거북 가시를 장착합니다.",
     "type": "MINION",
     "cardClass": "WARRIOR",
     "classes": [],
@@ -97,31 +94,12 @@
     ],
     "nativeRawText": "[x]<b>광폭:</b> 방어도를 +8 얻습니다.\n<b>죽음의 메아리:</b> 2/5\n거북 가시를 장착합니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2021-06-04",
-    "releaseStatus": "verified",
-    "patches": [],
-    "initialSpecStatus": "unverified",
-    "patchSources": {}
-  },
-  "root": true,
-  "relatedIds": [
-    63376
-  ],
-  "expansion": {
-    "id": 1525,
-    "slug": "forged-in-the-barrens",
-    "name": "불모의 땅",
-    "type": "expansion",
-    "englishName": "Forged In The Barrens"
-  },
-  "setOrder": 20,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "patchSources": {},
+    "englishName": "Kresh, Lord of Turtling",
+    "root": true,
+    "relatedIds": [
+      63376
+    ],
+    "art": "art/WC_026.png"
   }
 }

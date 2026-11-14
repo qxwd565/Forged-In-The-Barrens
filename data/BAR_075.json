@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Crossroads Watch Post",
-  "card": {
+  "2021-03-31": {
     "id": "BAR_075",
     "dbfId": 62584,
     "name": "십자로 경비초소",
-    "text": "공격할 수 없습니다.\n상대편이 주문을 시전할\n때마다 내 하수인들에게\n+1/+1을 부여합니다.",
+    "text": "공격할 수 없습니다.<br></br>상대편이 주문을 시전할<br></br>때마다 내 하수인들에게<br></br>+1/+1을 부여합니다.",
     "type": "MINION",
     "cardClass": "NEUTRAL",
     "classes": [],
@@ -70,29 +67,10 @@
     ],
     "nativeRawText": "[x]공격할 수 없습니다.\n상대편이 주문을 시전할\n때마다 내 하수인들에게\n+1/+1을 부여합니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2021-03-31",
-    "releaseStatus": "verified",
-    "patches": [],
-    "initialSpecStatus": "unverified",
-    "patchSources": {}
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1525,
-    "slug": "forged-in-the-barrens",
-    "name": "불모의 땅",
-    "type": "expansion",
-    "englishName": "Forged In The Barrens"
-  },
-  "setOrder": 20,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "patchSources": {},
+    "englishName": "Crossroads Watch Post",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/BAR_075.png"
   }
 }

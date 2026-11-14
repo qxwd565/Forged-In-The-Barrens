@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Vengeful Spirit",
-  "card": {
+  "2021-03-31": {
     "id": "BAR_328",
     "dbfId": 63166,
     "name": "복수심에 불타는 영혼",
@@ -80,40 +77,17 @@
     ],
     "nativeRawText": "<b>추방자:</b> <b>죽음의 메아리</b> 하수인을 둘 뽑습니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2021-03-31",
-    "releaseStatus": "verified",
-    "patches": [
-      {
-        "date": "2022-11-30",
-        "changes": {
-          "races": [
-            "UNDEAD"
-          ]
-        }
-      }
-    ],
-    "initialSpecStatus": "unverified",
     "patchSources": {
       "2022-11-30": "taxonomy introduction"
-    }
+    },
+    "englishName": "Vengeful Spirit",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/BAR_328.png"
   },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1525,
-    "slug": "forged-in-the-barrens",
-    "name": "불모의 땅",
-    "type": "expansion",
-    "englishName": "Forged In The Barrens"
-  },
-  "setOrder": 20,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+  "2022-11-30": {
+    "races": [
+      "UNDEAD"
+    ]
   }
 }

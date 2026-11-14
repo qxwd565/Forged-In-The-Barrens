@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Shadow Hunter Vol'jin",
-  "card": {
+  "2021-03-31": {
     "id": "BAR_080",
     "dbfId": 62176,
     "name": "어둠사냥꾼 볼진",
-    "text": "<b>전투의 함성:</b> 하수인을\n선택합니다. 그 하수인을\n주인의 손에 있는 무작위\n하수인과 교체합니다.",
+    "text": "<b>전투의 함성:</b> 하수인을<br></br>선택합니다. 그 하수인을<br></br>주인의 손에 있는 무작위<br></br>하수인과 교체합니다.",
     "type": "MINION",
     "cardClass": "NEUTRAL",
     "classes": [],
@@ -75,29 +72,10 @@
     ],
     "nativeRawText": "[x]<b>전투의 함성:</b> 하수인을\n선택합니다. 그 하수인을\n주인의 손에 있는 무작위\n하수인과 교체합니다.",
     "nativeTextBuilder": 16,
-    "releasedAt": "2021-03-31",
-    "releaseStatus": "verified",
-    "patches": [],
-    "initialSpecStatus": "unverified",
-    "patchSources": {}
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1525,
-    "slug": "forged-in-the-barrens",
-    "name": "불모의 땅",
-    "type": "expansion",
-    "englishName": "Forged In The Barrens"
-  },
-  "setOrder": 20,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "patchSources": {},
+    "englishName": "Shadow Hunter Vol'jin",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/BAR_080.png"
   }
 }

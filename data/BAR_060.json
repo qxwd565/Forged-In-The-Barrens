@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Hog Rancher",
-  "card": {
+  "2021-03-31": {
     "id": "BAR_060",
     "dbfId": 62481,
     "name": "돼지 사육사",
-    "text": "<b>전투의 함성:</b>\n<b>속공</b> 능력이 있는 2/1 돼지를 소환합니다.",
+    "text": "<b>전투의 함성:</b><br></br><b>속공</b> 능력이 있는 2/1 돼지를 소환합니다.",
     "type": "MINION",
     "cardClass": "NEUTRAL",
     "classes": [],
@@ -80,31 +77,12 @@
     ],
     "nativeRawText": "<b>전투의 함성:</b>\n<b>속공</b> 능력이 있는 2/1 돼지를 소환합니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2021-03-31",
-    "releaseStatus": "verified",
-    "patches": [],
-    "initialSpecStatus": "unverified",
-    "patchSources": {}
-  },
-  "root": true,
-  "relatedIds": [
-    63189
-  ],
-  "expansion": {
-    "id": 1525,
-    "slug": "forged-in-the-barrens",
-    "name": "불모의 땅",
-    "type": "expansion",
-    "englishName": "Forged In The Barrens"
-  },
-  "setOrder": 20,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "patchSources": {},
+    "englishName": "Hog Rancher",
+    "root": true,
+    "relatedIds": [
+      63189
+    ],
+    "art": "art/BAR_060.png"
   }
 }

@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Chain Lightning (Rank 3)",
-  "card": {
+  "2021-03-31": {
     "id": "BAR_044t2",
     "dbfId": 63067,
     "name": "연쇄 번개 (3 레벨)",
@@ -55,29 +52,10 @@
     ],
     "nativeRawText": "하수인과 그 하수인 양옆에 있는 하수인 중 하나에게 피해를 $4 줍니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2021-03-31",
-    "releaseStatus": "verified",
-    "patches": [],
-    "initialSpecStatus": "unverified",
-    "patchSources": {}
-  },
-  "root": false,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1525,
-    "slug": "forged-in-the-barrens",
-    "name": "불모의 땅",
-    "type": "expansion",
-    "englishName": "Forged In The Barrens"
-  },
-  "setOrder": 20,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "patchSources": {},
+    "englishName": "Chain Lightning (Rank 3)",
+    "root": false,
+    "relatedIds": [],
+    "art": "art/BAR_044t2.png"
   }
 }

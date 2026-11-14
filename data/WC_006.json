@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Lady Anacondra",
-  "card": {
+  "2021-06-04": {
     "id": "WC_006",
     "dbfId": 63332,
     "name": "여군주 아나콘드라",
@@ -80,29 +77,10 @@
     ],
     "nativeRawText": "내 자연 주문의 비용이 (2) 감소합니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2021-06-04",
-    "releaseStatus": "verified",
-    "patches": [],
-    "initialSpecStatus": "unverified",
-    "patchSources": {}
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1525,
-    "slug": "forged-in-the-barrens",
-    "name": "불모의 땅",
-    "type": "expansion",
-    "englishName": "Forged In The Barrens"
-  },
-  "setOrder": 20,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "patchSources": {},
+    "englishName": "Lady Anacondra",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/WC_006.png"
   }
 }

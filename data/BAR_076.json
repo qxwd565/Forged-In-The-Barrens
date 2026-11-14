@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Mor'shan Watch Post",
-  "card": {
+  "2021-03-31": {
     "id": "BAR_076",
     "dbfId": 62585,
     "name": "몰샨 경비초소",
-    "text": "공격할 수 없습니다.\n상대편이 하수인을\n낸 후에, 2/2 그런트를\n소환합니다.",
+    "text": "공격할 수 없습니다.<br></br>상대편이 하수인을<br></br>낸 후에, 2/2 그런트를<br></br>소환합니다.",
     "type": "MINION",
     "cardClass": "NEUTRAL",
     "classes": [],
@@ -75,47 +72,21 @@
     ],
     "nativeRawText": "[x]공격할 수 없습니다.\n상대편이 하수인을\n낸 후에, 2/2 그런트를\n소환합니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2021-03-31",
-    "releaseStatus": "verified",
-    "patches": [
-      {
-        "date": "2021-04-14",
-        "changes": {
-          "health": 4
-        }
-      },
-      {
-        "date": "2023-04-05",
-        "changes": {
-          "health": 5
-        }
-      }
-    ],
-    "initialSpecStatus": "partially_verified",
     "patchSources": {
       "2021-04-14": "https://hearthstone.blizzard.com/ko-kr/news/23658923",
       "2023-04-05": "https://hearthstone.blizzard.com/en-us/news/23934449"
-    }
+    },
+    "englishName": "Mor'shan Watch Post",
+    "root": true,
+    "relatedIds": [
+      63256
+    ],
+    "art": "art/BAR_076.png"
   },
-  "root": true,
-  "relatedIds": [
-    63256
-  ],
-  "expansion": {
-    "id": 1525,
-    "slug": "forged-in-the-barrens",
-    "name": "불모의 땅",
-    "type": "expansion",
-    "englishName": "Forged In The Barrens"
+  "2021-04-14": {
+    "health": 4
   },
-  "setOrder": 20,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+  "2023-04-05": {
+    "health": 5
   }
 }

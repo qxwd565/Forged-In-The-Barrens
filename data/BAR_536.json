@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Living Seed (Rank 1)",
-  "card": {
+  "2021-03-31": {
     "id": "BAR_536",
     "dbfId": 63030,
     "name": "살아있는 씨앗 (1 레벨)",
-    "text": "야수를 뽑습니다. 그 야수의\n비용이 (1) 감소합니다.\n<i>(보유한 마나가 5일때\n강화됩니다.)</i>",
+    "text": "야수를 뽑습니다. 그 야수의<br></br>비용이 (1) 감소합니다.<br></br><i>(보유한 마나가 5일때<br></br>강화됩니다.)</i>",
     "type": "SPELL",
     "cardClass": "DRUID",
     "classes": [],
@@ -60,32 +57,13 @@
     ],
     "nativeRawText": "[x]야수를 뽑습니다. 그 야수의\n비용이 (1) 감소합니다.\n<i>(보유한 마나가 5일때\n강화됩니다.)</i>",
     "nativeTextBuilder": 0,
-    "releasedAt": "2021-03-31",
-    "releaseStatus": "verified",
-    "patches": [],
-    "initialSpecStatus": "unverified",
-    "patchSources": {}
-  },
-  "root": true,
-  "relatedIds": [
-    63031,
-    63032
-  ],
-  "expansion": {
-    "id": 1525,
-    "slug": "forged-in-the-barrens",
-    "name": "불모의 땅",
-    "type": "expansion",
-    "englishName": "Forged In The Barrens"
-  },
-  "setOrder": 20,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "patchSources": {},
+    "englishName": "Living Seed (Rank 1)",
+    "root": true,
+    "relatedIds": [
+      63031,
+      63032
+    ],
+    "art": "art/BAR_536.png"
   }
 }

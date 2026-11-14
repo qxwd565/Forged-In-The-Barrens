@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Piercing Shot",
-  "card": {
+  "2021-03-31": {
     "id": "BAR_032",
     "dbfId": 62812,
     "name": "관통 사격",
@@ -60,29 +57,10 @@
     ],
     "nativeRawText": "하수인에게 피해를 $6 줍니다. 초과한 피해량만큼 적 영웅에게 피해를 줍니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2021-03-31",
-    "releaseStatus": "verified",
-    "patches": [],
-    "initialSpecStatus": "unverified",
-    "patchSources": {}
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1525,
-    "slug": "forged-in-the-barrens",
-    "name": "불모의 땅",
-    "type": "expansion",
-    "englishName": "Forged In The Barrens"
-  },
-  "setOrder": 20,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "patchSources": {},
+    "englishName": "Piercing Shot",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/BAR_032.png"
   }
 }

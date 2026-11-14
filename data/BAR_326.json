@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Razorfen Beastmaster",
-  "card": {
+  "2021-03-31": {
     "id": "BAR_326",
     "dbfId": 63164,
     "name": "가시덩굴 야수조련사",
-    "text": "<b>죽음의 메아리:</b> 내 손에\n있는 비용이 (4) 이하인\n<b>죽음의 메아리</b> 하수인을\n소환합니다.",
+    "text": "<b>죽음의 메아리:</b> 내 손에<br></br>있는 비용이 (4) 이하인<br></br><b>죽음의 메아리</b> 하수인을<br></br>소환합니다.",
     "type": "MINION",
     "cardClass": "DEMONHUNTER",
     "classes": [],
@@ -75,40 +72,17 @@
     ],
     "nativeRawText": "[x]<b>죽음의 메아리:</b> 내 손에\n있는 비용이 (4) 이하인\n<b>죽음의 메아리</b> 하수인을\n소환합니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2021-03-31",
-    "releaseStatus": "verified",
-    "patches": [
-      {
-        "date": "2021-05-05",
-        "changes": {
-          "races": [
-            "QUILBOAR"
-          ]
-        }
-      }
-    ],
-    "initialSpecStatus": "unverified",
     "patchSources": {
       "2021-05-05": "taxonomy introduction"
-    }
+    },
+    "englishName": "Razorfen Beastmaster",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/BAR_326.png"
   },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1525,
-    "slug": "forged-in-the-barrens",
-    "name": "불모의 땅",
-    "type": "expansion",
-    "englishName": "Forged In The Barrens"
-  },
-  "setOrder": 20,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+  "2021-05-05": {
+    "races": [
+      "QUILBOAR"
+    ]
   }
 }

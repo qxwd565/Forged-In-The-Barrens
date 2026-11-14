@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Whirling Combatant",
-  "card": {
+  "2021-03-31": {
     "id": "BAR_840",
     "dbfId": 63126,
     "name": "회전하는 전투원",
-    "text": "<b>전투의 함성과 광폭:</b>\n다른 <b>모든</b> 하수인에게 피해를 1 줍니다.",
+    "text": "<b>전투의 함성과 광폭:</b><br></br>다른 <b>모든</b> 하수인에게 피해를 1 줍니다.",
     "type": "MINION",
     "cardClass": "WARRIOR",
     "classes": [],
@@ -75,29 +72,10 @@
     ],
     "nativeRawText": "<b>전투의 함성과 광폭:</b>\n다른 <b>모든</b> 하수인에게 피해를 1 줍니다.",
     "nativeTextBuilder": 7,
-    "releasedAt": "2021-03-31",
-    "releaseStatus": "verified",
-    "patches": [],
-    "initialSpecStatus": "unverified",
-    "patchSources": {}
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1525,
-    "slug": "forged-in-the-barrens",
-    "name": "불모의 땅",
-    "type": "expansion",
-    "englishName": "Forged In The Barrens"
-  },
-  "setOrder": 20,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "patchSources": {},
+    "englishName": "Whirling Combatant",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/BAR_840.png"
   }
 }

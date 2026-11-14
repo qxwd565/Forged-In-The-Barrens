@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Wound Prey",
-  "card": {
+  "2021-03-31": {
     "id": "BAR_801",
     "dbfId": 63195,
     "name": "사냥감 공격",
@@ -65,31 +62,12 @@
     ],
     "nativeRawText": "피해를 $1 줍니다. <b>속공</b> 능력이 있는 1/1 하이에나를 소환합니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2021-03-31",
-    "releaseStatus": "verified",
-    "patches": [],
-    "initialSpecStatus": "unverified",
-    "patchSources": {}
-  },
-  "root": true,
-  "relatedIds": [
-    63459
-  ],
-  "expansion": {
-    "id": 1525,
-    "slug": "forged-in-the-barrens",
-    "name": "불모의 땅",
-    "type": "expansion",
-    "englishName": "Forged In The Barrens"
-  },
-  "setOrder": 20,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "patchSources": {},
+    "englishName": "Wound Prey",
+    "root": true,
+    "relatedIds": [
+      63459
+    ],
+    "art": "art/BAR_801.png"
   }
 }

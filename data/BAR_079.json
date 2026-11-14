@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Kazakus, Golem Shaper",
-  "card": {
+  "2021-03-31": {
     "id": "BAR_079",
     "dbfId": 62588,
     "name": "골렘술사 카자쿠스",
@@ -75,55 +72,36 @@
     ],
     "nativeRawText": "<b>전투의 함성:</b> 내 덱에 비용이 4인 카드가 없으면, 원하는 골렘을 직접 만듭니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2021-03-31",
-    "releaseStatus": "verified",
-    "patches": [],
-    "initialSpecStatus": "unverified",
-    "patchSources": {}
-  },
-  "root": true,
-  "relatedIds": [
-    63666,
-    63667,
-    63668,
-    63644,
-    63645,
-    63646,
-    63647,
-    63648,
-    63649,
-    63650,
-    63651,
-    63652,
-    63653,
-    63657,
-    63660,
-    68234,
-    63654,
-    63656,
-    71655,
-    71659,
-    63661,
-    63662,
-    63658,
-    63659,
-    68235
-  ],
-  "expansion": {
-    "id": 1525,
-    "slug": "forged-in-the-barrens",
-    "name": "불모의 땅",
-    "type": "expansion",
-    "englishName": "Forged In The Barrens"
-  },
-  "setOrder": 20,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "patchSources": {},
+    "englishName": "Kazakus, Golem Shaper",
+    "root": true,
+    "relatedIds": [
+      63666,
+      63667,
+      63668,
+      63644,
+      63645,
+      63646,
+      63647,
+      63648,
+      63649,
+      63650,
+      63651,
+      63652,
+      63653,
+      63657,
+      63660,
+      68234,
+      63654,
+      63656,
+      71655,
+      71659,
+      63661,
+      63662,
+      63658,
+      63659,
+      68235
+    ],
+    "art": "art/BAR_079.png"
   }
 }
